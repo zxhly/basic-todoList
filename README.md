@@ -1,14 +1,12 @@
-# Vue 3 + Vite
+# Basic To-do list
 
-## Basic To-do list
-
-Features:
+## Features:
 - Add task
 - Remove task
 - Remove all tasks
 - Remove buttons hidden when task list is empty
 
-stuff to do later:
+## stuff to do later:
 - add a "edit/remove" button to each task
 - view by finished/unfinished OR show all
 - merge with database
